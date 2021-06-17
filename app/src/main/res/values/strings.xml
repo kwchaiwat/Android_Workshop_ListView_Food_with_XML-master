@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Chaiwat Kitchen</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string-array name="foods">
+        <item>ข้าวไข่เจียวหมูสับ</item>
+        <item>กะเพราหมู / ไก่ / หมึก</item>
+        <item>ส้มตำปู</item>
+        <item>ไข่ต้มยางมะตูม</item>
+        <item>ผัดไทย</item>
+        <item>ผัดหมี่โคราช</item>
+        <item>สลัดมันกุ้ง</item>
+        <item>ต้มแซ่บเอ็นหมู</item>
+        <item>ห่อหมกทะเล</item>
+        <item>ข้าวเปล่า</item>
+        <item>หมูยอทอดน้ำปลา</item>
+        <item>ใบเหลียงผัดไข่</item>
+    </string-array>
+    <integer-array name="images">
+        <item>@drawable/image1</item>
+        <item>@drawable/image2</item>
+        <item>@drawable/image3</item>
+        <item>@drawable/image4</item>
+        <item>@drawable/image5</item>
+        <item>@drawable/image6</item>
+        <item>@drawable/image7</item>
+        <item>@drawable/image8</item>
+        <item>@drawable/image9</item>
+        <item>@drawable/image10</item>
+        <item>@drawable/image11</item>
+        <item>@drawable/image13</item>
+    </integer-array>
+</resources>
